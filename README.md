@@ -16,7 +16,7 @@ Zaap is a fast Linux launcher built with Tauri, React, and TypeScript.
 
 ## 🎥 Demo
 
-<video src="https://github.com/user-attachments/assets/3fbeb3bf-eb59-4e00-bb35-b2d9398a71df" autoplay muted playsinline loop preload="auto"></video>
+<video src="https://github.com/user-attachments/assets/0d1d65a4-8941-4f10-bd98-6e94db3cd6f6" autoplay muted playsinline loop preload="auto"></video>
 
 ## ✨ Features
 
